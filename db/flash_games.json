@@ -1,0 +1,32 @@
+[ 
+    {
+      "title": "Bloons",
+      "description": "Bloons by Ninja Kiwi",
+      "swf_file": "bloons.swf"
+    },
+    {
+      "title": "Bloons TD",
+      "description": "Bloons TD by Ninja Kiwi",
+      "swf_file": "bloonstd_moved.swf"
+    },
+    {
+      "title": "Epic Battle Fantasy",
+      "description": "Epic Battle Fantasy by Matt Roszak",
+      "swf_file": "epic-battle-fantasy-37765ed4.swf"
+    },
+    {
+      "title": "Age of War",
+      "description": "Age of War by Louissi, published on Max Games",
+      "swf_file": "age-of-war-6165ed4.swf"
+    },
+    {
+      "title": "Age of War 2",
+      "description": "Age of War 2 by Louissi, published on Max Games",
+      "swf_file": "age-of-war-2-public.swf"
+    },
+    {
+      "title": "Stick War",
+      "description": "Age of War 2 by Crazy Jay, published on StickPage.com",
+      "swf_file": "age-of-war-2-public.swf"
+    }
+]
